@@ -4,12 +4,12 @@
 
 # メンバー
 ## リーダー・プログラム
-- [はぬおう](https://twitter.com/hanuoukisendevs)
+ [はぬおう](https://twitter.com/hanuoukisendevs)
 ## ~~ちょっと~~プログラム
-- [mtripg6666tdr](https://scrpg.tyanoyu.net)
+ [mtripg6666tdr](https://scrpg.tyanoyu.net)
 ## デザイン
-- [Dsc_D×7](https://discochan.github.io)
-- [Putya](http://me.scrpg.tyanoyu.net/ORE)
+ [Dsc_D×7](https://discochan.github.io)
+ [Putya](http://me.scrpg.tyanoyu.net/ORE)
 
 # Discordサーバー
 Discordサーバーにぜひご参加ください！
