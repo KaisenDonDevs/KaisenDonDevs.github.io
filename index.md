@@ -1,6 +1,4 @@
-# KaisenDon Devsホームページ
 救済実行♪←は？
-
 
 # メンバー
 ## リーダー・プログラム
@@ -21,5 +19,3 @@ Discordサーバーにぜひご参加ください！
 
 # YouTube
 関連情報は「[コタツの部屋](https://myon.page.link/hanuouyt)」にて。
-
-Copyright &copy; 2020 KaisenDon Devs All Rights Reserved.
