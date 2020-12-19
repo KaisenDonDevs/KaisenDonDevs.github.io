@@ -17,6 +17,7 @@ body {
         box-shadow: 1px 1px 3px 3px gray;
         border-radius: 8px;
         padding-top: 35px;
+        padding-bottom: 35px;
 
         .small {
             font-size: 80%;
@@ -79,12 +80,35 @@ body {
                     vertical-align: top;
 
                     p.member_role {
-                        font-size: 130%;
+                        font-size: 95%;
                         text-align: left;
+                        margin-left: 5px;
                     }
                     p.member_name {
-                        font-size: 110%;
+                        font-size: 140%;
                         text-align: center;
+                    }
+
+                    div.sns_button_container {
+                        padding-left: 4px;
+
+                        a {
+                            margin: 4px;
+                            display: inline-block;
+
+                            div.twitter_icon, div.github_icon {
+                                width: 30px;
+                                border-radius: 7px;
+                                height: 30px;
+                                background-size: contain;
+                            }
+                            div.twitter_icon {
+                                background-image: url("../../images/Twitter_Logo_WhiteOnBlue.png");
+                            }
+                            div.github_icon {
+                                background-image: url("../../images/GitHub-Mark-64px.png");
+                            }
+                        }
                     }
                 }
             }
