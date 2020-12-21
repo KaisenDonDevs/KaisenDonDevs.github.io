@@ -1,0 +1,57 @@
+body {
+    div.main_panel{
+        width: 100%;
+        max-width: 100%;
+
+        div.magao_chan_container {
+            span#magao_chan {
+                font-size: 200%;
+            }
+        }
+
+        section#member {
+            div.member_card_container {
+                div.member_card {
+                    width: 90%;
+                    max-width:none;
+
+                    p.member_role {
+                        font-size: 125%;
+                        text-align: left;
+                        margin-left: 5px;
+                    }
+                    p.member_name {
+                        font-size: 170%;
+                        text-align: center;
+                    }
+
+                    div.sns_button_container {
+                        a {
+                            div.twitter_icon, div.github_icon {
+                                width: 50px;
+                                border-radius: 12px;
+                                height: 50px;
+                                background-size: contain;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        section#discord {
+            div.discord_card_container {
+                width: 100%;
+                display: block;
+                border: 1px solid gray;
+                border-radius: 12px;
+                width: 95%;
+                margin: 0px auto;
+
+                div.discord_card {
+                    width: 100%;
+                }
+            }
+        }
+    }
+}
